@@ -1,3 +1,3 @@
 # Mysto1
-my first repository
+my first repository.
 Author - Rajan Kumar Shah
